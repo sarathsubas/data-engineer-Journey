@@ -1,0 +1,26 @@
+a = [1, 2, 3, 4, 5]
+c =[]
+print(a[2:5])
+b = ["apple", "banana", "cherry"]
+print(b[1])
+print(b[-1])
+a.append("orange")
+print(a)
+c = a+b
+print(c)
+a.extend(b)
+print (a)
+c = a.copy()
+print (c)
+b.sort()
+print(b)
+b.reverse()
+print(b)
+b.sort(reverse=True)
+print(b)
+a.remove("orange")
+print(a)
+a.pop(1)
+print(a)
+a.clear()
+print(a)
