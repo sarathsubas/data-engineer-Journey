@@ -1,0 +1,7 @@
+a = str(input("Enter a string: "))
+a = a.swapcase()
+print("The string with swapped case is: ", a)
+print(a[2:5])
+print(a[-3:])
+print(a.upper())
+print(a.lower())
