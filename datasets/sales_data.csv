@@ -4,3 +4,5 @@ order_id,customer_name,product,category,quantity,price,city
 1003,Arun,Keyboard,Accessories,1,1500,Hyderabad
 1004,Sarath,PS5,Accessories,2,50000,Mumbai
 1005,Mithu,Iphone,Electronics,1,150000,Germany
+1006,Ravi,Tablet,Electronics,0,25000,Chennai
+1007,Anu,Phone,Electronics,2,0,Bangalore
