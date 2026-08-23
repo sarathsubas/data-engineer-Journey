@@ -40,3 +40,46 @@
 - Loops can process records one by one.
 - Dictionaries can be used for aggregation.
 - Data validation is an important part of ETL pipelines.
+
+## Day 4 — Functions, Exception Handling & Reusable ETL Code
+### Topics Learned
+
+- Python Functions
+- Parameters and Arguments
+- Return vs Print
+- Default Parameters
+- Exception Handling
+- try / except / else / finally
+- ValueError
+- ZeroDivisionError
+- FileNotFoundError
+- Reusable Functions
+- Basic ETL Project Structure
+
+### Hands-on Programs
+
+- Function Basics
+- Exception Handling
+- File Handling with Exception Handling
+- Reusable CSV Reader
+
+### Project Work
+
+Started building the Retail Sales Data Pipeline.
+
+Created the initial ETL structure:
+
+- reader.py — Read sales data
+- validator.py — Validate sales records
+- transformer.py — Transform sales data
+- main.py — Control the pipeline flow
+
+### Key Learning
+
+- Functions help avoid duplicate code and make programs reusable.
+- `return` allows a function to send a value back to the caller.
+- Exception handling prevents the program from failing unexpectedly.
+- CSV data can be processed record by record.
+- ETL logic can be separated into different modules.
+- A well-structured project is easier to maintain and extend.
+
