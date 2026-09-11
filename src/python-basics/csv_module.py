@@ -13,7 +13,8 @@ with open("datasets\\sales_data.csv",'r') as file:
     row_count = sum(1 for line in read_content)
 
 print(f"Total records: {row_count}")
-    # with open("datasets\\sales_data2.csv",'w') as file:
-    #     write_content = csv.writer(file)
-    #     write_content.writerows(read_content)
+
+with open("datasets\\sales_data2.csv",'w') as file:
+        write_content = csv.writer(file)
+        write_content.writerows(read_content)
 

@@ -40,4 +40,3 @@ with open("projects\\retail_sales_pipeline\\output\\sales_output.csv","w") as fi
             output_Sales.append(j + [(int(j[4]) * int(j[5]))])
     for line in output_Sales:
         sales_output.writerow(line)
-    print(output_Sales)
