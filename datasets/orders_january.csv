@@ -1,0 +1,4 @@
+order_id,customer_id,product,quantity,price
+J101,C001,Laptop,1,65000
+J102,C002,Mouse,2,800
+J103,C003,Keyboard,1,1500

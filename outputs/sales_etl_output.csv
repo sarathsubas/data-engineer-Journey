@@ -1,0 +1,9 @@
+order_id,customer_name,product,category,quantity,price,city,total_sale,sale_level,city_code,price_category
+1001,Rahul,Laptop,Electronics,1.0,65000.0,CHENNAI,65000.0,Medium,CHN,Expensive
+1002,Priya,Mouse,Accessories,2.0,800.0,BANGALORE,1600.0,Low,BLR,Affordable
+1003,Arun,Keyboard,Accessories,1.0,1500.0,HYDERABAD,1500.0,Low,HYD,Affordable
+1004,Sarath,PS5,Accessories,2.0,50000.0,MUMBAI,100000.0,high,BOM,Expensive
+1005,Mithu,Iphone,Electronics,1.0,150000.0,GERMANY,150000.0,high,DE,Expensive
+1006,Ravi,Tablet,Electronics,1.0,25000.0,CHENNAI,25000.0,Low,CHN,Affordable
+1007,Anu,Phone,Electronics,2.0,10000.0,BANGALORE,20000.0,Low,BLR,Affordable
+1008,John,Laptop,Electronics,1.0,65000.0,CHENNAI,65000.0,Medium,CHN,Expensive

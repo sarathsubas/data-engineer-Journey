@@ -1,0 +1,10 @@
+order_id,customer_name,product,category,quantity,price,city
+1001,Rahul,Laptop,Electronics,1,65000,Chennai
+1002,Priya,Mouse,Accessories,2,800,Bangalore
+1003,Arun,Keyboard,Accessories,1,1500,Hyderabad
+1004,Sarath,PS5,Accessories,2,50000,Mumbai
+1005,Mithu,Iphone,Electronics,1,150000,Germany
+1006,Ravi,Tablet,Electronics,,25000,Chennai
+1007,Anu,Phone,Electronics,2,,Bangalore
+1002,Priya,Mouse,Accessories,2,800,Bangalore
+1008, John ,Laptop,Electronics,1,65000, chennai

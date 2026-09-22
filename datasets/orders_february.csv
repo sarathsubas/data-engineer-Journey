@@ -1,0 +1,4 @@
+order_id,customer_id,product,quantity,price
+F101,C004,PS5,1,50000
+F102,C005,Phone,2,30000
+F103,C001,Monitor,1,20000
